@@ -1,2 +1,2 @@
 # movies_recommend_system
-C基于python和TensorFlow的电影推荐系统，自学
+基于python和TensorFlow的电影推荐系统，自学
